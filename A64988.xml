@@ -1,0 +1,194 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The foundation of God standeth sure, or, A defence of those fundamental and so generally believed doctrines of the trinity of persons in the unity of the divine essence, of the satisfaction of Christ the second person of the real and glorious Trinity, the justification of the ungodly by the imputed righteousness of Christ : against the cavils of W.P. J. a Quaker in his pamphlet entituled The sandy foundation shaken &amp;c. : wherein his and the Quakers hideous blasphemies, Socinian, and damnably-heretical opinions are discovered and refuted, W.P.'s ignorance, weakness, falshoods, absurd arguings, and folly is made manifest unto all ... / by Thomas Vincent.</title>
+            <author>Vincent, Thomas, 1634-1678.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1668</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A64988</idno>
+            <idno type="STC">Wing V438_VARIANT</idno>
+            <idno type="STC">ESTC R27041</idno>
+            <idno type="EEBO-CITATION">09619272</idno>
+            <idno type="OCLC">ocm 09619272</idno>
+            <idno type="VID">43847</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A64988)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43847)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1344:29)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The foundation of God standeth sure, or, A defence of those fundamental and so generally believed doctrines of the trinity of persons in the unity of the divine essence, of the satisfaction of Christ the second person of the real and glorious Trinity, the justification of the ungodly by the imputed righteousness of Christ : against the cavils of W.P. J. a Quaker in his pamphlet entituled The sandy foundation shaken &amp;c. : wherein his and the Quakers hideous blasphemies, Socinian, and damnably-heretical opinions are discovered and refuted, W.P.'s ignorance, weakness, falshoods, absurd arguings, and folly is made manifest unto all ... / by Thomas Vincent.</title>
+                  <author>Vincent, Thomas, 1634-1678.</author>
+               </titleStmt>
+               <extent>80 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1668.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: all after p. 6 lacking.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Penn, William, 1644-1718. --  Sandy foundation shaken.</term>
+               <term>Society of Friends --  Controversial literature.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:43847:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 119 -->
+            <p>THE <hi>Foundation of God standeth ſure.</hi>
+            </p>
+            <p>OR, A Defence of thoſe Fundamental, and ſo generally believed Doctrines.
+Of
+<list>
+                  <item>The Trinity of Perſons in the Unity of the Divine Eſſence.</item>
+                  <item>The Satisfaction of Chriſt the ſecond Perſon of the Real and Glorious Trinity.</item>
+                  <item>The Juſtification of the Ungodly by the Imputed Righteouſneſs of Chriſt.</item>
+               </list>
+            </p>
+            <p>Againſt the Cavils of <hi>W. P. J.</hi> a <hi>Quaker,</hi> in his Pamphlet entituled, <hi>The Sandy Founda<g ref="char:EOLhyphen"/>tion ſhaken, &amp;c.</hi>
+            </p>
+            <p>Wherein his and the <hi>Quakers</hi> Hideous Blaſphemies, <hi>Socinian</hi> and damnably-heretical Opinions, are diſco<g ref="char:EOLhyphen"/>vered and refuted; <hi>W. P</hi>'s ignorance, weakneſs, falſhoods, abſurd arguings, and folly, is made manifeſt unto all.</p>
+            <p>With a Call unto all ſuch who in the ſimplicity of their hearts have been deluded by the <hi>Quakers,</hi> to come out from amongſt them.</p>
+            <p>And an Exhortation to all Chriſtians, as they deſire their Salvation, to beware of their damnable Doctrines, and not to come neer the Tents of theſe enemies of Jeſus Chriſt leſt they be ſwallowed up in their ruin.</p>
+            <p>By <hi>Thomas Vincent,</hi> ſometime Miniſter of <hi>Maudlins Milk-ſtreet, London.</hi>
+            </p>
+            <q>
+               <bibl>1 Joh. 5.7.</bibl>
+               <p>For there are Three that bear Record in Heaven, the Father, the Word, and the Holy Ghost; and theſe three are One.</p>
+            </q>
+            <q>
+               <bibl>Mat. 20.28.</bibl>
+               <p>The Son of Man came to give his life a ranſome for many.</p>
+            </q>
+            <q>
+               <bibl>Rom. 4.5.</bibl>
+               <p>To him that worketh not, but believeth in him that justifieth the ungodly, his Faith is counted for Righteouſneſs.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year 1668.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <div n="1" type="chapter">
+               <pb facs="tcp:43847:2"/>
+               <!-- PDF PAGE 120 -->
+               <pb n="1" facs="tcp:43847:2"/>
+               <!-- PDF PAGE 120 -->
+               <head>
+                  <hi>CHAP. I.</hi> The INTROD<g ref="char:V">Ʋ</g>CTION.</head>
+               <p>
+                  <hi>WILLIAM PENN</hi> Entituleth his Pamphlet, <hi>The Foundation ſhaken;</hi> which however he termeth a <hi>Sandy Foundation,</hi> he acknowledgeth to be, at leaſt, our <hi>Foundation:</hi> In the beginning of his Epiſtle to the Reader, he doth inveigh againſt Hu<g ref="char:EOLhyphen"/>man Tradition; amongſt which he numbreth not only thoſe things which are <hi>Circumſtantial,</hi> but alſo thoſe Doctrines which Proteſtants generally believe to be <hi>Eſſential:</hi> And at the latter end of his Epiſtle he confeſſeth, the Doctrines of the <hi>Tri<g ref="char:EOLhyphen"/>nity, Satisfaction, and Juſtification by imputed Righte<g ref="char:EOLhyphen"/>ouſneſs,</hi> to be cardinal Points, and chief Doctrines, firmly believed as Articles of Chriſtian Faith, which he telleth us he hath endeavoured the total ener<g ref="char:EOLhyphen"/>vation of. It is plain then, that this man ſtriketh at the Root, and laboureth to overthrow the Foundation of Chriſtianity, as we have built upon it, that he might overthrow the faith of weak and uneſtabliſhed Chriſtians: But <hi>the Foundation of God ſtandeth ſure;</hi> the great Fundamental Truths con<g ref="char:EOLhyphen"/>cerning our Lord Jeſus Chriſt, his Godhead being the ſecond Perſon of the Trinity, equal with the Father; his Satisfaction which he made to God's
+<pb n="2" facs="tcp:43847:3"/>
+                  <!-- PDF PAGE 121 -->Juſtice for Man's ſin; and Juſtification by his im<g ref="char:EOLhyphen"/>puted Righteouſneſs; are like a Rock which can<g ref="char:EOLhyphen"/>not be moved; againſt which, what ever waves do ariſe and beat, for removal of, though the noiſe and clamors be great, yet the attempts will be in vain; the Rock remaineth where it was, and the waves of oppoſition are broken to pieces. It is poſſible indeed that the Faith of ſome may ſuffer ſhipwrack by ſuch aſſaults, becauſe, they were never well-grounded, faſtned and fixed in the Principles of Religion; becauſe, they never received the truths of the Word either with true ſaving Faith, or true ſincere Love; and therefore, the Lord hath threatned to <hi>give ſuch up unto ſtrong deluſions to believe a lie, that they might be damned,</hi> 2 Theſ. 2.10, 11, 12. Theſe are the perſons who hear Chriſt's Word, and do not practice accordingly; therefore, our Savi<g ref="char:EOLhyphen"/>our compareth them to them <hi>that build their houſe upon the ſand, upon which the rain deſcendeth, and the floods come, and the winds blow and beat, and it falleth, and the fall therefore is great,</hi> Mat. 7.26, 27. This is the <hi>Sandy Foundation</hi> which <hi>W.</hi> P. and the <hi>Qua<g ref="char:EOLhyphen"/>kers</hi> may ſhake, and overthrow, and be inſtru<g ref="char:EOLhyphen"/>mental to pull down into the ſame ruine and de<g ref="char:EOLhyphen"/>ſtruction with themſelves: But ſuch who have built upon the Lord Jeſus Chrſt, who is the only true <hi>Foundation,</hi> 1 <hi>Cor.</hi> 3.11. Such who have <hi>built</hi> in<g ref="char:EOLhyphen"/>deed <hi>upon the Foundation of the Prophets and Apoſtles, whereof Jeſus Chriſt himſelf is the chief Corner-ſtone, Eph.</hi> 2.20. They have built upon the Rock, (upon which whoſoever ſtumbleth and falleth, will be broken to pieces; but upon which, whoſoever buildeth, is ſafe) therefore are not toſſed to and fro with every wind of doctrine; neither is it poſſible (becauſe of Chriſt's care and undertaking for them) that they
+<pb n="3" facs="tcp:43847:3"/>
+                  <!-- PDF PAGE 121 -->ſhould be overthrown by any of the blaſts of Satan, or any of his inſtruments, <hi>Mat.</hi> 24.24. <hi>If it were poſſible they ſhall deceive the very Elect.</hi> The <hi>Quakers,</hi> however, ſome of them, and thoſe of the chiefeſt and Ring-leaders, have at ſometimes let fall from their Black-mouth moſt hideons Blaſphemies, and vented moſt damnably-heretical Doctrines: as for inſtance, <hi>George Fox</hi> poſitively affirmed thus, <hi>I am equal with God;</hi> this was depoſed at a general Seſſions in <hi>Weſtmerland. James Nayler</hi> ſaid in the hear<g ref="char:EOLhyphen"/>ing of Mr. <hi>Baldwin,</hi> a man of eminent truſt and in<g ref="char:EOLhyphen"/>tegrity, <hi>That he did witneſs, that he was as holy, juſt, and good, as God.</hi> In the <hi>Quakers</hi> book called, <hi>Saul's Errand to Damaſcus,</hi> it is aſſerted, <hi>That there is no diſtinction of Perſons in the Godhead. Nayler</hi> and o<g ref="char:EOLhyphen"/>thers have ſpoken to this effect, <hi>That whoſoever ex<g ref="char:EOLhyphen"/>pects to be ſaved by him that died at Jeruſalem, ſhall be deceived.</hi> I might mention many other ſuch Blaſ<g ref="char:EOLhyphen"/>phemies aed Hereſies; See <hi>The perfect Phariſee,</hi> by the <hi>Newcaſtle</hi> Miniſters at the beginning. I ſay, though the <hi>Quakers</hi> have ſometimes ſpoken out their Blaſphemies and corrupt Doctrines, yet for the moſt part they are ſo ſubtle, that they do not ſuffer the inward ſhape of their mind to appear ſo plainly abroad, leſt every one ſhould run from them with loathing and abhorrency; and however the import of their words be Blaſphemy and Here<g ref="char:EOLhyphen"/>ſie, yet they ſhroud their meaning under ambigu<g ref="char:EOLhyphen"/>ous phraſes; and eſpecially at their firſt aſſault and endeavours to gain Proſelites and Followers, they cover the hook with the pleaſing bait of ſugred words and fair ſpeeches, whereby they deceive thoſe that are unskilful in the word of Righteouſ<g ref="char:EOLhyphen"/>neſs, and in the method of their erroneous ways; whence it is that many ere they are aware, and
+<pb n="4" facs="tcp:43847:4"/>
+                  <!-- PDF PAGE 122 -->not knowing whither they are going, are drawn into their pernicious ways, by reaſon of whom the way of truth is evil ſpoken of.</p>
+               <p>But <hi>W.</hi> P. being himſelf a <hi>Quaker,</hi> and ſpeaking in their name and vindication as, himſelf telleth us, pag. 36. and they diſperſing his books, and calling for an anſwer; and he being counted amongſt them one of their chief, becauſe of ſome ſmattring of learning which they conceit he hath, and which he himſelf ſeemeth to have a high conceit of (which how groundleſs it is, ſhall be diſcovered in the places where he doth attempt to ſhow ſome<g ref="char:EOLhyphen"/>thing of a Scholar) doth in his Pamphlet plainly aſſert and ſtand up for thoſe <hi>Quaker</hi>-Doctrines which I ſhall prove to be blaſphemous and damnable Here<g ref="char:EOLhyphen"/>ſies. And hath openly made it known to the World, that the <hi>Quakers</hi> in thoſe three great points which he doth militate againſt and endeavour the refu<g ref="char:EOLhyphen"/>tation of, are Rank <hi>Socinians,</hi> who more groſly erre in the Fundamentals of Religion, than the Papiſts themſelves. And becauſe <hi>W.</hi> P. doth take occaſion from the meeting with me and others in diſputation (if it might be ſo called, where nothing was directly anſwered) to put forth his Pamphlet, and becauſe he giveth but a lame and in ſomethings a falſe account of tranſactions; therefore, I ſhall I give a true and brief Narative of what paſſed at the meeting for Conference, with anſwer to his Poſt<g ref="char:EOLhyphen"/>ſcript. 2 Eſtabliſh the truths he objecteth againſt, by Scripture and Argument; 3 Anſwer his Objections againſt thoſe truths. Laſtly, Apply my ſelf to deluded <hi>Quakers,</hi> for the recalling of them, and to all other Chriſtians for the cautioning and eſtab<g ref="char:EOLhyphen"/>liſhing of them againſt the attempts of ſuch as would draw them aſide into the dark and danger<g ref="char:EOLhyphen"/>ous
+<pb facs="tcp:43847:4"/>
+                  <!-- PDF PAGE 122 -->
+                  <pb facs="tcp:43847:5"/>
+                  <!-- PDF PAGE 123 -->
+                  <pb n="5" facs="tcp:43847:5"/>
+                  <!-- PDF PAGE 123 -->Path, which doth as certainly lead to Hell as the broad way of Prophaneſs.</p>
+            </div>
+            <div n="2" type="chapter">
+               <head>
+                  <hi>CHAP. II.</hi> A brief Narrative of <hi>T.V</hi>'s meeting with ſome <hi>Quakers</hi> in <hi>Spittle-yard,</hi> with the occaſion and tranſactions there, and ſome exceptions to the account which <hi>W.P.</hi> hath given thereof.</head>
+               <p>MY firſt meeting wit the <hi>Quakers</hi> was upon deſire at the houſe of a friend in <hi>Houndſditch,</hi> in order to the preſerving of ſome who were temp<g ref="char:EOLhyphen"/>ted to go amongſt them; I met there ſeveral <hi>Quakers</hi> two of which were the chief ſpeakers: It would tire the Reader, as I believe it did the Hearers, to give Relation of all their wild and im<g ref="char:EOLhyphen"/>pertinent diſcourſe; I could not get them to ſpeak out, and plainly to aſſert ſome of their Principles; I believe it was through fear leſt their mouths ſhould be ſtopped before the people; yet after ma<g ref="char:EOLhyphen"/>ny words, they aſſerted the Perfection of Saints in this Life, and the place of Scripture which they brought for the proof of their aſſertion was, 1 <hi>Joh.</hi> 3.9. <hi>Whoſoever is born of God, doth not commit ſin.</hi> Unto this I anſwered, That the words in the Original were <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, (one of them interrupted me at the mention of the Original words, ſaying, It was the ſmoke of the bottomleſs pit) that the ſignification was, Doth not make it his buſineſs to ſin; and the meaning was, that ſuch as were born again, did not make a trade of ſin, did not go on in a courſe of ſin; or did not commit ſin, that is, with the full bent of the will as the wicked do,
+<pb n="6" facs="tcp:43847:6"/>
+                  <!-- PDF PAGE 124 -->But that it could not be underſtood of not com<g ref="char:EOLhyphen"/>mitting ſin at all; becauſe, the ſame Apoſtle in the ſame Epiſtle, Chap. 1.8. telleth us, <hi>If we ſay we have no ſin, we deceive our ſelves, and the truth is not in us.</hi> There he ſpeaketh of himſelf and others that were born again, and plainly acknowledgeth they were not without ſin. It was further urged, that if all that were born of God were perfectly free from ſin; then it would follow, that who ever found any ſin in them, were not born of God, conſe<g ref="char:EOLhyphen"/>quently in a ſtate of nature, and ſo if they ſhould die with any ſin remaining they would certainly go to Hell, and ſo none there, yea none in the world would be ſaved. Moreover I appealed to the experience of the beſt of them, whether they could ſay they were wholly free from ſin, whether they had no irregular thoughts nor affections: this they would not <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ffirm, neither did they abſolutely deny: when they pleaded the perfection the Apoſtle <hi>Paul</hi> ſpeaketh of, <hi>Phil.</hi> 3.15. I replied, that the ſame Apoſtle <hi>v.</hi> 12. acknowledgeth that he had not as yet attained, neither was yet perfect; and if the Apoſtle <hi>Paul</hi> who had arrived to ſo great a heighth in grace that he was (how ever as ſome think little in bodily ſtature) yet taller by the head and ſhoulders than others in regard of his grace and ſpiritual attainments; how could Audacious <hi>Quakers</hi> (who if <hi>Quakers</hi> indeed becauſe of their damnable Opinions, I am confident have not the leaſt degree of true grace) boaſt of perfection, as if they had got above the Apoſtle himſelf. I told them that all true Believers were perfect in a ſence, they were Evangelically perfect, but not legally, not abſolutely perfect; they had perfection of parts, but not perfection of degrees; and in this ſence <gap reason="missing" extent="1+ pages">
+                     <desc>〈1… pages missing〉</desc>
+                  </gap>
+               </p>
+               <pb facs="tcp:43847:6"/>
+               <!-- PDF PAGE 124 -->
+               <pb facs="tcp:43847:7" rendition="simple:additions"/>
+               <!-- PDF PAGE 125 -->
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
